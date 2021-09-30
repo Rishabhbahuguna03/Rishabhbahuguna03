@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rishabhbahuguna03@gmail.com**
 
-- ⚡ Fun fact **I ink down my ideas from neural connections on YourQuote and Quora**
+- ⚡ Fun fact **I ink down my ideas from neural connections on [YourQuote](https://www.yourquote.in/rishabh-bahuguna-bzv55/quotes) and [Quora](https://www.quora.com/profile/Rishabh-Bahuguna-7)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -56,4 +56,4 @@
 
  
 -
-- I write on [YourQuote](https://www.yourquote.in/rishabh-bahuguna-bzv55/quotes)
+- I write on [YourQuote]()
