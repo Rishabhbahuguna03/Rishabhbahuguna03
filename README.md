@@ -1,5 +1,5 @@
 - <h1 align="center">Hi 👋, I'm Rishabh Bahuguna</h1>
-<h3 align="center">An avid learner</h3>
+<h3 align="center">HackerRank 1 :star: Python and sql</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbahuguna03&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbahuguna03" /> </p>
 
@@ -11,15 +11,8 @@
 
 - 🌱 I’m currently learning **Github, social media analytics.**
 
-- 👯 I’m looking to collaborate on **projects related to education equity.**
-
-- 👨‍💻 All of my projects are available at [github.com/Rishabhbahuguna03](github.com/Rishabhbahuguna03)
-
-- 📝 I regularly write articles on [rishabhbahuguna03.medium.com](rishabhbahuguna03.medium.com)
-
 - 📫 How to reach me **rishabhbahuguna03@gmail.com**
 
-- ⚡ Fun fact **I ink down my ideas from neural connections on [YourQuote](https://www.yourquote.in/rishabh-bahuguna-bzv55/quotes) and [Quora](https://www.quora.com/profile/Rishabh-Bahuguna-7)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
