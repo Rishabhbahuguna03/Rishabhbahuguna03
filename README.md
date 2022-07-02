@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Rishabh Bahuguna</h1>
+ <h1 align="center">Hi 👋, I'm Rishabh Bahuguna</h1>
 <h3 align="center">HackerRank 3 :star: Python and sql</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbahuguna03&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbahuguna03" /> </p>
@@ -7,16 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhbahuguna" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhbahuguna?logo=twitter&style=for-the-badge" alt="rishabhbahuguna" /></a> </p>
 
-- 🔭 I’m currently working on [content creation](https://linkedin.com/company/thelingohut)
+-  🚀 I’m currently working on [SISO PMIS] in Planning Department of Navayuga Engg. Co. Ltd.(NECL) responsible for the construction of 125kms. Single BG Tunnel b/w Rishikesh (RKSH) & Karanprayag (KPG) in the state of Uttarakhand, India. 
 
-- 🌱 I’m currently learning **Github, social media analytics.**
+- 🧠 Brainstormed ideas with an edtech professional on [content creation](https://linkedin.com/company/thelingohut)
+
+- 🌱 Currently learning **Github, social media analytics.**
+
+- Love working with similar & higher mindset peers. 
 
 - 📫 How to reach me **rishabhbahuguna03@gmail.com**
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
