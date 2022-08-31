@@ -13,7 +13,9 @@
 
 - 🌱 Currently learning **Github, social media analytics.**
 
-- Love working with similar & higher mindset peers. 
+- Love developing insights from business and marketing fields.
+
+- Leisure time = Music time. 
 
 - 📫 How to reach me **rishabhbahuguna03@gmail.com**
 
