@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhbahuguna03&" alt="rishabhbahuguna03" /></p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pushkaraj2007&theme=github&bg_color=0F182A)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rishabhbahuguna03&theme=github&bg_color=0F182A)
 
 
 
