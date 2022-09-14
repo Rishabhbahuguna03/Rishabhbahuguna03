@@ -29,6 +29,7 @@
 <a href="https://instagram.com/rb03_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rb03_27" height="30" width="40" /></a>
 <a href="https://medium.com/@rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabhbahuguna03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCx7Ftr8Q9dOZKYnLQE7bKYw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishabh bahuguna" height="30" width="40" /></a>
+<a href="https://trailblazer.me/id/rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishabh bahuguna" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhbahuguna03&show_icons=true&locale=en&layout=compact" alt="rishabhbahuguna03" /></p>
