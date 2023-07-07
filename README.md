@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Bahuguna</h1>
-<h3 align="center">Data Enthusiast | HackerRank 4 🌟 SQL, Python </h3>
+<h3 align="center"> Tableau 👨🏻‍💻| HackerRank 4 🌟 SQL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbahuguna03&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbahuguna03" /> </p>
 
