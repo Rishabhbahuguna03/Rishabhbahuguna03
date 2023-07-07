@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhbahuguna" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhbahuguna?logo=twitter&style=for-the-badge" alt="rishabhbahuguna" /></a> </p>
 
-- 🔭 I’m currently working on [content creation](https://linkedin.com/company/thelingohut)
+- 🌱 Learning **Data Visualization using Tableau**
 
-- 🌱 I’m currently learning **Github, social media analytics.**
+- 👯 Contributing my visualizations 👉 **WorkoutWednesdays #WOW.**
 
-- 👯 I’m looking to collaborate on **projects related to education equity.**
+- 👨‍💻 Currently working on projects related to dashboarding and visualizations using Tableau 👉 [Data Visualizations](https://github.com/Rishabhbahuguna03/Tableau-Visualizations)
 
-- 👨‍💻 All of my projects are available at [github.com/Rishabhbahuguna03](github.com/Rishabhbahuguna03)
+- 📫 Reach me 👉 **rishabhbahuguna03@gmail.com**
 
-- 📝 I regularly write articles on [rishabhbahuguna03.medium.com](rishabhbahuguna03.medium.com)
-
-- 📫 How to reach me **rishabhbahuguna03@gmail.com**
-
-- ⚡ Fun fact **I ink down my ideas from neural connections on YourQuote and Quora**
+- ⚡ Fun fact **I'm a Half-marathoner**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
