@@ -15,7 +15,7 @@
 
 - 📫 Reach me 👉 **rishabhbahuguna03@gmail.com**
 
-- ⚡ Fun fact **I'm a Half-marathoner**
+- ⚡ Fun fact **Find your circuit-runner under athlete [here](https://www.strava.com/athletes/69202637)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
