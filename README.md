@@ -9,7 +9,7 @@
 
 - 🌱 Learning **Data Visualization using Tableau**
 
-- 👯 Contributing my visualizations 👉 **[MakeOverMonday] (https://github.com/Rishabhbahuguna03/Tableau-Visualizations/tree/main/Tableau_MOM_Challenge)) #MOM.**
+- 👯 Contributing my visualizations 👉 **[MakeOverMonday] (https://github.com/Rishabhbahuguna03/Tableau-Visualizations/tree/main/Tableau_MOM_Challenge) #MOM.**
 
 - 👨‍💻 Currently working on projects related to dashboarding and visualizations using Tableau 👉 [Data Visualizations](https://github.com/Rishabhbahuguna03/Tableau-Visualizations)
 
