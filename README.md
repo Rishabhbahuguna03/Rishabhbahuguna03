@@ -1,5 +1,4 @@
-<h1 align="center">Hello and a very warm welcome to my profile 👋, 
-                      I'm Rishabh Bahuguna</h1>
+<h1 align="center">Hello👋, I'm Rishabh Bahuguna</h1>
 <h3 align="center"> Aspiring Product Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbahuguna03&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbahuguna03" /> </p>
