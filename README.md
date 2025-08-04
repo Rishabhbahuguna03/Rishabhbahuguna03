@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishabh Bahuguna</h1>
-<h3 align="center"> Tableau 👨🏻‍💻 | 1X Featured attendee SFDC Gwalior | 1X Speaker Jaipur TUG </h3>
+<h1 align="center">Hello and a very warm welcome to my profile 👋, I'm Rishabh Bahuguna</h1>
+<h3 align="center"> Aspiring Product Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbahuguna03&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbahuguna03" /> </p>
 
@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhbahuguna" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhbahuguna?logo=twitter&style=for-the-badge" alt="rishabhbahuguna" /></a> </p>
 
-- 🌱 Learning **Data Visualization using Tableau**
+- 🌱 Learning **SQL, Product Analyst books & Tableau**
 
-- 👯 Contributing my visualizations 👉 **[MakeOverMonday](https://github.com/Rishabhbahuguna03/Tableau-Visualizations/tree/main/Tableau_MOM_Challenge)**
+- 👨‍💻 Currently working on projects related to Product Analyst jobrole using SQL 👉 [Data Visualizations](https://github.com/Rishabhbahuguna03/Tableau-Visualizations)
 
-- 👨‍💻 Currently working on projects related to dashboarding and visualizations using Tableau 👉 [Data Visualizations](https://github.com/Rishabhbahuguna03/Tableau-Visualizations)
-
-- 📫 Reach me 👉 **rishabhbahuguna03@gmail.com**
-
-- ⚡ Fun fact **Find your circuit-runner under athlete [here](https://www.strava.com/athletes/69202637)**
+- ⚡ Fun fact: **When not learning, I'm singing & writing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
