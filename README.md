@@ -9,7 +9,7 @@
 
 - 🌱 Learning **SQL, Product Analyst books & Tableau**
 
-- 👨‍💻 Currently working on projects related to Product Analyst jobrole using SQL 👉 [Data Visualizations](https://github.com/Rishabhbahuguna03/Tableau-Visualizations)
+- 👨‍💻 Currently working on projects related to Product Analyst jobrole using SQL 👉 [21 Day SQL Challenge]([https://github.com/Rishabhbahuguna03/Tableau-Visualizations](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC))
 
 - ⚡ Fun fact: **When not learning, I'm singing & writing**
 
