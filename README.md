@@ -9,11 +9,11 @@
 
 - 🌱 Learning **SQL, Product Analyst books & Tableau**
 
-- 👨‍💻 Currently working on projects related to Product Analyst jobrole using SQL 👉 [21 Day SQL Challenge]([https://github.com/Rishabhbahuguna03/Tableau-Visualizations](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC))
+- 👨‍💻 Currently working on projects related to Analyst jobrole using SQL 👉 [21 Day SQL Challenge](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC)
 
 - ⚡ Fun fact: **When not learning, I'm singing & writing**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
