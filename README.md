@@ -27,6 +27,13 @@
 <!-- <a href="https://www.youtube.com/c/rishabh bahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishabh bahuguna" height="30" width="40" /></a> -->
 <!-- <a href="https://leetcode.com/u/Rishabhbahuguna03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="rishabhbahuguna03" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishabhbahuguna03" height="30" width="40" /></a>
+<p>
+  <img
+    src="https://leetcard.jacoblin.cool/Rishabhbahuguna03?theme=dark&font=Fira%20Code&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
