@@ -25,7 +25,7 @@
 <!-- <a href="https://instagram.com/rb03_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rb03_27" height="30" width="40" /></a> -->
 <!-- <a href="https://medium.com/@rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabhbahuguna03" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/rishabh bahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishabh bahuguna" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/u/Rishabhbahuguna03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="rishabhbahuguna03" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/u/Rishabhbahuguna03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="rishabhbahuguna03" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishabhbahuguna03" height="30" width="40" /></a>
 </p>
 
@@ -47,25 +47,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
   </a> -->
 </p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhbahuguna03&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rishabhbahuguna03&show_icons=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=rishabhbahuguna03"
-    alt="GitHub Streak"
-  />
-</p>
-
