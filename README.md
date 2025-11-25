@@ -11,7 +11,7 @@
 
 - 👨‍💻 [Mini project]() using SQL displays how I approach any problem.
 
-- ⚡ Fun fact: **When not learning, I'm singing & writing**
+- ⚡ Fun fact: **When I'm not working, I'm singing, running, and inking my thoughts the old-school way.**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -48,9 +48,24 @@
   </a> -->
 </p>
 
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhbahuguna03&layout=compact"
+    alt="Top Languages"
+  />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhbahuguna03&show_icons=true&locale=en&layout=compact" alt="rishabhbahuguna03" /></p>
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rishabhbahuguna03&show_icons=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhbahuguna03&show_icons=true&locale=en" alt="rishabhbahuguna03" /></p>
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=rishabhbahuguna03"
+    alt="GitHub Streak"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhbahuguna03&" alt="rishabhbahuguna03" /></p>
