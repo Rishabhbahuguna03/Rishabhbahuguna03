@@ -9,7 +9,7 @@
 
 - 🌱 Implementing the business acumen with `SQL` as a database language for solving problems through tech.
 
-- 👨‍💻 [Mini project]() using SQL displays how I approach any problem.
+- 👨‍💻 [Mini project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Mini%20Project/The%20Great%20Pizza%20Analytics%20Challenge) using SQL displays how I approach any problem.
 
 - ⚡ Fun fact: **When I'm not working, I'm singing, running, and inking my thoughts the old-school way.**
 
