@@ -23,6 +23,13 @@
        height="30" 
        style="vertical-align:middle; margin-left:5px;" />
   </a>
+ <a href="https://www.duolingo.com" target="blank">
+  <img 
+       src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" 
+       alt="duolingo" 
+       height="30" 
+       style="vertical-align:middle; margin-left:5px;" />
+  </a> 
 
 
   
@@ -120,7 +127,19 @@
        alt="latex" 
        height="30"/>
   </a>
-  
+  <h3 align="left">Design:</h3>
+  <!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" 
+       alt="canva" 
+       height="30"/>
+  </a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
+       alt="figma" 
+       height="30"/>
+  </a>
   <h3 align="left">Documentation, Automation and Management:</h3>
   <!-- Notion -->
   <a href="https://www.notion.com/" target="blank" rel="noreferrer">
