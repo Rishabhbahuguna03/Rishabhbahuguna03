@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhbahuguna" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhbahuguna?logo=twitter&style=for-the-badge" alt="rishabhbahuguna" /></a> </p> -->
 
--  Implementing the business acumen with `SQL` as a database language for solving problems through tech.
+-  Turning questions into evidence with `SQL`, a database query language that helps solve problems through tech.
 
 -  [Mini Project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Mini%20Project/The%20Great%20Pizza%20Analytics%20Challenge) using SQL displays how I approach any problem.
 
--  This [Capstone Project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Capstone%20Project) strengthened my problem-solving skills and ability to write complex SQL queries, interpret results accurately, and turn those insights into a clear, investigative narrative.
+-  This [Capstone Project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Capstone%20Project) strengthened my problem-solving skills & ability to write complex SQL queries, interpret results accurately, and turn those insights into a clear, investigative narrative.
 
--  Fun fact: **When I'm not working, I'm singing, running, and inking my thoughts the old-school way and learning Spanish.**
+-  Fun fact: **When I'm not working, I'm singing, running, reading, and inking my thoughts the old-school way and learning Spanish.**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
