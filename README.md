@@ -13,7 +13,7 @@
 
 -  This [Capstone Project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Capstone%20Project) strengthened my problem-solving skills & ability to write complex SQL queries, interpret results accurately, and turn those insights into a clear, investigative narrative.
 
--  Fun fact: **When I'm not working, I'm singing, running, reading, and inking my thoughts the old-school way and learning Spanish.**
+-  Fun fact: **When I'm not working, I'm singing, running, reading, inking my thoughts the old-school way, and learning Spanish.**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
