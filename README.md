@@ -15,9 +15,17 @@
 
 -  Fun fact: **When I'm not working, I'm singing, running, reading, inking my thoughts the old-school way, and learning Spanish.**
 
-- I love to explore product inside-out:
+-  I love to explore products inside out:  
+  <a href="https://www.spotify.com" target="blank">
+  <img 
+       src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" 
+       alt="spotify" 
+       height="30" 
+       style="vertical-align:middle; margin-left:5px;" />
+  </a>
 
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/RishabhBahuguna" target="blank">
