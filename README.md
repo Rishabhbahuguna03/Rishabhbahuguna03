@@ -94,8 +94,39 @@
        height="30"/>
   </a>
   
-  <!-- Tools -->
-  <a href="TOOL_OFFICIAL_WEBSITE" target="_blank" rel="noreferrer">
-    <img src="DEVICON_SVG_URL" alt="TOOL_NAME" width="40" height="40"/>
+  <!-- Others -->
+  <!-- Overleaf -->
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" 
+       alt="overleaf" 
+       height="30"/>
+  </a>
+  <!-- LaTeX -->
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" 
+       alt="latex" 
+       height="30"/>
+  </a>
+  
+  Documentation and Management
+  <!-- Notion -->
+  <a href="https://www.notion.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" 
+       alt="notion" 
+       height="30"/>
+  </a>
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="blank">
+  <img align="center"
+       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
+       alt="jira"
+       height="30" />
+  </a>
+  <!-- Trello -->
+  <a href="https://www.trello.com" target="blank">
+  <img align="center"
+       src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
+       alt="jira-link"
+       height="30" />
   </a>
 </p>
