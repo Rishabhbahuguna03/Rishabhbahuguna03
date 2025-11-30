@@ -38,7 +38,12 @@
        alt="tableau-profile" 
        height="30" />
 </a>
-  
+  <a href="https://www.github.com/Rishabhbahuguna03" target="blank">
+  <img align="center" 
+       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+       alt="github-profile" 
+       height="30" />
+</a>
 <h3 align="left">Databases and practice:</h3>
 <a href="https://www.hackerrank.com/rishabhbahuguna03" target="blank">
   <img align="center"
@@ -108,13 +113,20 @@
        height="30"/>
   </a>
   
-  Documentation and Management
+  <h3 align="left">Documentation, Automation and Management:</h3>
   <!-- Notion -->
-  <a href="https://www.notion.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.notion.com/" target="blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" 
        alt="notion" 
        height="30"/>
   </a>
+  <!-- Slack -->
+  <a href="https://www.slack.com/" target="blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" 
+       alt="slack" 
+       height="30"/>
+  </a>
+  <h3 align="left">Product and Team Management:</h3>
   <!-- Jira -->
   <a href="https://www.atlassian.com/software/jira" target="blank">
   <img align="center"
