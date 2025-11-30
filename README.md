@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishabhbahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhbahuguna" height="30" width="40" /></a>
+<a href="https://twitter.com/RishabhBahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhbahuguna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabhbahuguna03" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabhbahuguna03" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/rb03_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rb03_27" height="30" width="40" /></a> -->
