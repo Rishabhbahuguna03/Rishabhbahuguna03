@@ -13,9 +13,7 @@
 
 -  This [Capstone Project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Capstone%20Project) strengthened my problem-solving skills & ability to write complex SQL queries, interpret results accurately, and turn those insights into a clear, investigative narrative.
 
--  Fun fact: **When I'm not working, I'm singing, running, reading, inking my thoughts the old-school way, and learning Spanish.**
-
--  I love to explore products inside out:  
+-  I love exploring products inside out:  
   <a href="https://www.spotify.com" target="blank">
   <img 
        src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" 
