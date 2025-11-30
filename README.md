@@ -30,7 +30,13 @@
        height="30" 
        style="vertical-align:middle; margin-left:5px;" />
   </a> 
-
+<a href="https://www.slack.com" target="blank">
+  <img 
+       src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" 
+       alt="duolingo" 
+       height="30" 
+       style="vertical-align:middle; margin-left:5px;" />
+  </a> 
 
   
 <h3 align="left">Connect with me:</h3>
@@ -125,6 +131,12 @@
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" 
        alt="latex" 
+       height="30"/>
+  </a>
+  <h3 align="left">Cloud:</h3>
+  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" 
+       alt="salesforce" 
        height="30"/>
   </a>
   <h3 align="left">Design:</h3>
