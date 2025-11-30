@@ -15,56 +15,87 @@
 
 -  Fun fact: **When I'm not working, I'm singing, running, reading, inking my thoughts the old-school way, and learning Spanish.**
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- I love to explore product inside-out:
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RishabhBahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhbahuguna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabhbahuguna03" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabhbahuguna03" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/rb03_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rb03_27" height="30" width="40" /></a> -->
-<!-- <a href="https://medium.com/@rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabhbahuguna03" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/c/rishabh bahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishabh bahuguna" height="30" width="40" /></a> -->
+<a href="https://x.com/RishabhBahuguna" target="blank">
+  <img align="center" 
+       src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" 
+       alt="x-profile" 
+       height="30" />
+</a>
+<a href="https://www.linkedin.com/in/rishabhbahuguna03" target="blank">
+  <img align="center"
+       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+       alt="linkedin-profile"
+       height="30" />
+</a>
 <a href="https://public.tableau.com/app/profile/rishabhbahuguna03" target="blank">
   <img align="center" 
        src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" 
        alt="tableau-profile" 
        height="30" />
 </a>
-<a href="https://www.hackerrank.com/rishabhbahuguna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishabhbahuguna03" height="30" width="40" /></a>
+  
+<h3 align="left">Databases and practice:</h3>
+<a href="https://www.hackerrank.com/rishabhbahuguna03" target="blank">
+  <img align="center"
+       src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+       alt="hackerrank-profile"
+       height="30" />
+</a>
+<a href="https://leetcode.com/u/Rishabhbahuguna03/" target="blank">
+  <img align="center"
+       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+       alt="leetcode-profile"
+       height="30" />
+</a>
+
+<h3 align="left">Let's connect for 15 mins to discuss potential projects:</h3>
 <a href="https://calendly.com/rishabh03" target="blank">
   <img align="center" 
        src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" 
        alt="calendly-link" 
        height="30" />
 </a>
-<p align="center">
-  <a href="https://leetcode.com/Rishabhbahuguna03/" target="_blank">
-    <img
-      src="https://leetcard.jacoblin.cool/Rishabhbahuguna03?theme=dark&font=Fira%20Code&ext=heatmap"
-      alt="LeetCode Stats"
-    />
-  </a>
 </p>
 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
+  <!-- Programming Languages -->
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
+       alt="python" 
+       height="30"/>
   </a>
-  <!-- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
-  </a> -->
+  
+  <!-- Databases -->
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
+       alt="mysql" 
+       height="30"/>
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
+       alt="postgresql" 
+       height="30"/>
+  </a>
+  <!-- Frameworks/Libraries -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" 
+       alt="pandas" 
+       height="30"/>
+  </a>
+  
+  <!-- Tools -->
+  <a href="TOOL_OFFICIAL_WEBSITE" target="_blank" rel="noreferrer">
+    <img src="DEVICON_SVG_URL" alt="TOOL_NAME" width="40" height="40"/>
+  </a>
 </p>
