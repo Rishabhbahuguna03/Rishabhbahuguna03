@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Rishabh Bahuguna</h1>
-<h3 align="center"> Problem solver | Keen observer | Techie </h3>
+<h3 align="center"> Problem solver | Keen observer | Analytics </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhbahuguna03&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhbahuguna03" /> </p>
 
