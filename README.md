@@ -11,7 +11,9 @@
 
 -  [Mini Project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Mini%20Project/The%20Great%20Pizza%20Analytics%20Challenge) using SQL displays how I approach any problem.
 
--  This [Capstone Project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Capstone%20Project) strengthened my problem-solving skills & ability to write complex SQL queries, interpret results accurately, and turn those insights into a clear, investigative narrative.
+- This [Capstone Project](https://github.com/Rishabhbahuguna03/SQL/tree/main/SQLWithIDC/Capstone%20Project) strengthened my problem-solving skills & ability to write complex SQL queries, interpret results accurately, and turn those insights into a clear, investigative narrative.
+
+-  I'm currently working on enhancing my [portfolio](https://rishabhbahuguna03.github.io)
 
 -  I love exploring products inside out:  
   <a href="https://www.spotify.com" target="blank">
