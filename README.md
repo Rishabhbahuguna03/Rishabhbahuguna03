@@ -14,7 +14,9 @@
 - This [Financial Project](https://github.com/Rishabhbahuguna03/Excel/tree/main/01_Financial%20Consumer%20Complaints_Bank%20of%20America) displays my thought process and problem-solving skills and turns insights into a clear, investigative narrative. In addition to this, my problem-solving approach is backed by a well-cited, authentic source.
 
 -  I'm currently improving my [portfolio](https://rishabhbahuguna03.github.io) and building a related project using Jira concepts in [this repository](https://github.com/Rishabhbahuguna03/Jira-Learning-Sandbox)
- 
+
+-  Learning progress (FY25-26, March 2026): implementing [PySpark in Databricks](https://docs.databricks.com/aws/en/pyspark/). [Here](https://github.com/Rishabhbahuguna03/Databricks/tree/main/06_Databricks_PySpark_Practice) is the respective repository.
+
 -  I love exploring products inside out:  
   <a href="https://www.spotify.com" target="blank">
   <img 
