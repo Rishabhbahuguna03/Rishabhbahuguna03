@@ -87,7 +87,7 @@ I am actively improving my portfolio and building supporting projects.
 
 Alongside technical work, I explore digital products to understand how successful products are built and improved.
 
-## Products I Study
+## Products I study
 
 <a href="https://www.spotify.com" target="blank">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="30"/>
@@ -101,7 +101,7 @@ Alongside technical work, I explore digital products to understand how successfu
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="30"/>
 </a>
 
-### What I Analyze
+### What I analyze
 
 - onboarding flows  
 - feature prioritization  
